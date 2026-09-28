@@ -50,7 +50,7 @@ const Footer = () => {
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-1">
               <FiShoppingBag size="30" />
               {/* <img src={footerLogo} alt="" className="max-w-[50px]" /> */}
-              ShopMe
+              NexCart
             </h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
@@ -105,14 +105,14 @@ const Footer = () => {
                 <a href="#">
                   <FaFacebook className="text-3xl" />
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/aayush-sundriyal-43160b249/">
                   <FaLinkedin className="text-3xl" />
                 </a>
               </div>
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaMapLocationDot />
-                  <p>Indore, Madhya Pradesh</p>
+                  <p>India, Delhi</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />
